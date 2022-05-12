@@ -1,0 +1,46 @@
+.header-section {
+  text-align: center;
+}
+
+.section {
+  margin-top: 1em;
+}
+
+/* Document Font Sizes*/
+.title {
+  font-size: 13pt;
+}
+.header {
+  font-size: 11pt;
+}
+* {
+  font-size: 9pt;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+
+/* Elimintate the bottom margin of all headers */
+h1, h2, h3, h4, h5, h6 {
+  margin-bottom: 0;
+}
+
+.class-box {
+  width: 70%;
+}
+
+.left {
+  float: left;
+}
+
+.right {
+  float: right;
+}
+
+ul {
+  margin: 0;
+  padding-left: 2em;
+}
+
+div {
+  margin: 0.5em 0;
+}
